@@ -1,0 +1,296 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo apt-get update
+    4  sudo apt-get upgrade
+    5  sudo shutdown now
+    6  sudo apt-get update
+    7  sudo apt-get upgrade
+    8  exit
+    9  sudo apt-get update
+   10  sudo apt-get upgrade
+   11  which npm
+   12  which nodejs
+   13  which snapd
+   14  sudo apt update
+   15  sudo apt upgrade
+   16  sudo apt install snapd
+   17  sudo apt autoremove
+   18  sudo snap install node --classic
+   19  which npm
+   20  npm --version
+   21  npm install web3
+   22  npm install -g npm@8.3.0
+   23  sudo npm install -g npm@8.3.0
+   24  sudo npm audit fix
+   25  pwd
+   26  ls -ali
+   27  cd Desktop
+   28  mkdir projectFolder
+   29  cd projectFolder/
+   30  npm init
+   31  ls -ali
+   32  cat package.json 
+   33  npm install web3 --save
+   34  cat package.json 
+   35  node
+   36  exit
+   37  sudo apt-get update
+   38  exit
+   39  sudo apt-get update
+   40  sudo apt-get upgrade
+   41  exit
+   42  npm --version
+   43  node --version
+   44  npm install ganache@beta --global
+   45  sudo npm install ganache@beta --global
+   46  sudo vim /root/.npm/_logs/2022-01-12T05_52_25_295Z-debug-0.log
+   47  sudo apt install vim
+   48  sudo vim /root/.npm/_logs/2022-01-12T05_52_25_295Z-debug-0.log
+   49  npm install -g ganache-cli
+   50  sudo npm install -g ganache-cli
+   51  sudo rm /usr/local/bin/ganache-cli
+   52  sudo npm install -g ganache-cli
+   53  sudo npm audit fix
+   54  cd Desktop/projectFolder/
+   55  ls -ali
+   56  web3
+   57  node
+   58  ganache-cli
+   59  exit
+   60  ganache-cli
+   61  exit
+   62  cd Downloads/
+   63  ls -ali
+   64  chmod +x ganache-2.5.4-linux-x86_64.AppImage 
+   65  ./ganache-2.5.4-linux-x86_64.AppImage 
+   66  exit
+   67  which python3
+   68  python3
+   69  exit
+   70  cd Desktop/projectFolder/
+   71  ls -ali
+   72  cat package
+   73  cat package.json 
+   74  node
+   75  exit
+   76  node index.js
+   77  npm install ethereumjs-tx --save
+   78  npm install @ethereumjs/tx --save
+   79  npm uninstall ethereumjs-tx --save
+   80  node full-transaction.js 
+   81  node index.js
+   82  ganache-cli
+   83  exit
+   84  cd Downloads/
+   85  ls -ltr
+   86  ./ganache-2.5.4-linux-x86_64.AppImage 
+   87  exit
+   88  sudo apt-get update
+   89  sudo apt-get upgrade
+   90  pwd
+   91  ls -ali
+   92  mkdir dev
+   93  cd dev
+   94  mkdir blockchain-developer
+   95  cd blockchain-developer/
+   96  mkdir 3_ethereum_smart_contracts_tokens_and_dapps
+   97  cd 3_ethereum_smart_contracts_tokens_and_dapps/
+   98  which git
+   99  sudo apt install git
+  100  which git
+  101  git clone https://github.com/wfs/blockchain-dev-ethereum-fundamentals.git
+  102  ls -ali
+  103  git status
+  104  cd blockchain-dev-ethereum-fundamentals/
+  105  git status
+  106  npm init
+  107  git status
+  108  npm install @ethereumjs/tx
+  109  npm install @ethereumjs/tx --save
+  110  cat package.json 
+  111  npm install web3  --save
+  112  cat package.json 
+  113  ls -ali
+  114  git status
+  115  git add full-transaction.js 
+  116  git add index.js 
+  117  git add package.json 
+  118  git add package-lock.json 
+  119  git add .prettierrc 
+  120  git status
+  121  git commit -m "Up to lesson 1, video 14."
+  122  git config --global user.email "andrew.d.wilkie@gmail.com"
+  123  git config --global user.name "wfs"
+  124  git commit -m "Up to lesson 1, video 14."
+  125  git push
+  126  exit
+  127  pwd
+  128  ls -ali
+  129  cd home/andrew/
+  130  ls -ali
+  131  exit
+  132  python3
+  133  cd dev/blockchain-developer/3_ethereum_smart_contracts_tokens_and_dapps/blockchain-dev-ethereum-fundamentals/
+  134  ls -ali
+  135  git status
+  136  git add full-transaction.js 
+  137  git add index.js 
+  138  git add index.html 
+  139  git commit -m "Finished lesson 3.1.16."
+  140  git config --global user.email "hullpod.central@gmail.com"
+  141  git push
+  142  git status
+  143  exit
+  144  cd Downloads/
+  145  ls -ltr
+  146  ./ganache-2.5.4-linux-x86_64.AppImage 
+  147  exit
+  148  node
+  149  node index.js
+  150  node full-transaction.js 
+  151  node index.js 
+  152  sudo apt-get update
+  153  exit
+  154  node index.js 
+  155  sudo apt-get update
+  156  sudo apt-get upgrade
+  157  cd Downloads/
+  158  ./ganache-2.5.4-linux-x86_64.AppImage 
+  159  cd ~/dev/blockchain-developer/3_ethereum_smart_contracts_tokens_and_dapps/blockchain-dev-ethereum-fundamentals/
+  160  git status
+  161  git add index.html 
+  162  git add index.js 
+  163  git add main.css 
+  164  git commit -m "Lesson 3.1.17 done."
+  165  git push
+  166  exit
+  167  sudo apt-get update
+  168  sudo apt-get upgrade
+  169  cd Downloads/
+  170  ls -ali
+  171  cd ~/dev/blockchain-developer/3_ethereum_smart_contracts_tokens_and_dapps/
+  172  ls -ali blockchain-dev-ethereum-fundamentals/
+  173  git clone https://github.com/wfs/blockchain-dev-ethereum-deploy-truffle.git
+  174  cd blockchain-dev-ethereum-deploy-truffle/
+  175  ls -ali
+  176  npm install -g truffle
+  177  ls -ali /usr/local/lib/
+  178  ls -ali /usr/local/lib/node_modules/
+  179  sudo mkdir /usr/local/lib/node_modules/truffle
+  180  sudo chown andrew:andrew /usr/local/lib/node_modules/truffle
+  181  ls -ali /usr/local/lib/node_modules/truffle
+  182  npm install -g truffle
+  183  ls -ali /usr/local/lib/node_modules/truffle
+  184  rename '/usr/local/lib/node_modules/truffle' -> '/usr/local/lib/node_modules/.truffle-ojTgnptm'
+  185  sudo rename '/usr/local/lib/node_modules/truffle' -> '/usr/local/lib/node_modules/.truffle-ojTgnptm'
+  186  npm --version
+  187  ls -ali /usr/local/lib/node_modules/
+  188  rm -rf /usr/local/lib/node_modules/truffle
+  189  sudo rm -rf /usr/local/lib/node_modules/truffle
+  190  node -v
+  191  npm -v
+  192  nvm -v
+  193  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  194  sudo snap install curl
+  195  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  196  source ~/.bashrc
+  197  nvm -v
+  198  command -v nvm
+  199  node -v
+  200  nvm install node
+  201  nvm clear cache
+  202  nvm cache clear
+  203  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  204  export NVM_DIR="$HOME/.nvm"
+  205  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+  206  [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+  207  nvm install node
+  208  rm -rf "$NVM_DIR"
+  209  vim ~/.bashrc
+  210  exit
+  211  cd dev/blockchain-developer/3_ethereum_smart_contracts_tokens_and_dapps/blockchain-dev-ethereum-deploy-truffle/
+  212  ls-ali
+  213  ls -ali
+  214  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+  215  exit
+  216  cd dev/blockchain-developer/3_ethereum_smart_contracts_tokens_and_dapps/blockchain-dev-ethereum-deploy-truffle/
+  217  node -v
+  218  command -v nvm
+  219  nvm -v
+  220  nvm install node
+  221  node -v
+  222  nvn ls-remote
+  223  nvm ls-remote
+  224  nvm install 14.7.0
+  225  sudo nvm install node
+  226  sudo snap remove curl
+  227  sudo apt install curl
+  228  nvm install node
+  229  node -v
+  230  npm -v
+  231  npm install -g truffle
+  232  npm audit fix
+  233  git status
+  234  truffle init
+  235  truffle
+  236  truffle console
+  237  truffle(development)> 
+  238  nvm install 14.7.0
+  239  node -v
+  240  truffle console
+  241  truffle
+  242  ls -ltr
+  243  cp truffle-config.js truffle-config.js.bkp
+  244  cp contracts/myMessage.sol contracts/myMessage.sol.bkp
+  245  truffle init
+  246  which truffle
+  247  truffle(development)> 
+  248  npm install -g truffle
+  249  sudo apt-get install build-essential
+  250  npm install -g truffle
+  251  nvm install 16.3.0
+  252  npm install -g truffle
+  253  npm audit fix
+  254  truffle
+  255  truffle console
+  256  npm install solc@0.4.26
+  257  truffle console
+  258  git status
+  259  git add build/
+  260  git add contracts/
+  261  git add migrations/
+  262  git add test/
+  263  git add truffle-config.js
+  264  git add truffle-config.js.bkp 
+  265  git status
+  266  git commit -m "Lesson 3.1.18 done"
+  267  git push
+  268  history > history.txt
+  269  exit
+  270  cd Downloads/
+  271  ./ganache-2.5.4-linux-x86_64.AppImage 
+  272  exit
+  273  sudo apt-get update
+  274  sudo apt-get upgrade
+  275  cd dev/blockchain-developer/3_ethereum_smart_contracts_tokens_and_dapps/blockchain-dev-ethereum-deploy-truffle/
+  276  cd ../
+  277  git clone https://github.com/wfs/blockchain-dev-ethereum-deploy-truffle-petshop-box.git
+  278  cd blockchain-dev-ethereum-deploy-truffle-petshop-box/
+  279  npm -v
+  280  node -v
+  281  nvm --help
+  282  nvm use 16.3.0
+  283  node -v
+  284  npm install -g truffle
+  285  npm audit fix
+  286  ls -ali
+  287  truffle unbox pet-shop
+  288  ls -ali
+  289  truffle develop
+  290  mkdir pet-shop-tutorial
+  291  cd pet-shop-tutorial
+  292  truffle unbox pet-shop
+  293  ls -ali
+  294  truffle compile
+  295  ls -ali contracts/
+  296  history > history.txt
